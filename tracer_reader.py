@@ -254,6 +254,9 @@ class tracer_file():
             for i in val_indices:
                 file.seek(self.bts_per_output+self.offset+4,0)
 
+    def read_everything(self):
+        self.follow_tracers(self.data["id"])
+    
 
     def follow_tracers(self,ids,vals=["pos"],guess_tps=1001):
         '''Returns a dictionary with the information about the specified
