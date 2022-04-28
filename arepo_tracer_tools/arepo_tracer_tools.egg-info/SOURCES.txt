@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-arepo_tracer_tools/arepo_tracer_tools.egg-info/PKG-INFO
-arepo_tracer_tools/arepo_tracer_tools.egg-info/SOURCES.txt
-arepo_tracer_tools/arepo_tracer_tools.egg-info/dependency_links.txt
-arepo_tracer_tools/arepo_tracer_tools.egg-info/top_level.txt
