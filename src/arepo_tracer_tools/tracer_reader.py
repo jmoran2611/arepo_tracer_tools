@@ -3,7 +3,7 @@ import time
 import pickle
 import numpy as np
 import struct
-from read_params import read_params
+from .read_params import read_params
 
 
 class tracer_file:
